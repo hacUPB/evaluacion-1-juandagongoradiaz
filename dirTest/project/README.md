@@ -11,13 +11,14 @@
 7) Se verificó el proceso del autogranding dentro del repositorio de GitHub y se notaron algunos errores en el proceso de verificación.
 8) Se le preguntó al docente Henry acerca de dichos errores, llegandose a la conclusión de ser errores dentro del script, por lo cual en esta ocación es válido dejar así el proceso.
 9) Se editó el archivo README.md, añadiendole las instrucciones que pedía el ejercicio. 
+10) Se corrigió un detalle adicional en README.md, haciendo un nuevo commit.
 
 --------------- --------------- --------------- --------------- --------------- ---------------
 
 ![alt text](https://i.imgur.com/IdfwVi7.jpg)
-https://www.youtube.com/channel/UCq4I1o08ZtwaO-xYCHRhu5A
 
-C R E A D O  P O R  J U A N  D A V I D  G Ó N G O R A 
+
+Creado por Juan David Góngora: https://www.youtube.com/channel/UCq4I1o08ZtwaO-xYCHRhu5A
 
 --------------- --------------- --------------- --------------- --------------- ---------------
 
