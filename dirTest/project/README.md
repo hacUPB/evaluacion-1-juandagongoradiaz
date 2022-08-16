@@ -23,19 +23,22 @@ Creado por Juan David Góngora: https://www.youtube.com/channel/UCq4I1o08ZtwaO-x
 --------------- --------------- --------------- --------------- --------------- ---------------
 
 <h1> COMANDOS UTILIZADOS </h1>
-- gh auth login (seguir todas las instrucciones que se dan para iniciar sesión de GitHub)
-- pwd
-- ls
-- cd Documentos/
-- git clone https://github.com/hacUPB/evaluacion-1-juandagongoradiaz
-- cd evaluacion-1-juandagongoradiaz/
-- cd dirTest/
-- cd project/
-- code . 
-- git status
-- git add . (se puede también git add wcat.c o git add README.md)
-- git commit -m "Se agregó..."
-- git log
-- git push u- origin main (o también git push https://github.com/hacUPB/evaluacion-1-juandagongoradiaz)
+
+
+1) gh auth login (seguir todas las instrucciones que se dan para iniciar sesión de GitHub)
+2) pwd
+3) ls
+4) cd Documentos/
+5) git clone https://github.com/hacUPB/evaluacion-1-juandagongoradiaz
+6) cd evaluacion-1-juandagongoradiaz/  
+7) cd dirTest/
+8) cd project/
+9) code . 
+10) git status
+11) git add . (se puede también git add wcat.c o git add README.md)
+12) git commit -m "Se agregó..."
+13) git log
+14) git push u- origin main (o también git push https://github.com/hacUPB/evaluacion-1-juandagongoradiaz)
+
 
  
